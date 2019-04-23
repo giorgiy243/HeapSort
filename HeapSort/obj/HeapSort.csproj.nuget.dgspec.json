@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/egor/Документы/apps/HeapSort/HeapSort.csproj": {}
+  },
+  "projects": {
+    "/home/egor/Документы/apps/HeapSort/HeapSort.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/egor/Документы/apps/HeapSort/HeapSort.csproj",
+        "projectName": "HeapSort",
+        "projectPath": "/home/egor/Документы/apps/HeapSort/HeapSort.csproj",
+        "packagesPath": "/home/egor/.nuget/packages/",
+        "outputPath": "/home/egor/Документы/apps/HeapSort/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/egor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

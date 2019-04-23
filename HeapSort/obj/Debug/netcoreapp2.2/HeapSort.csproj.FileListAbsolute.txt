@@ -1,0 +1,11 @@
+/home/egor/Документы/apps/HeapSort/bin/Debug/netcoreapp2.2/HeapSort.deps.json
+/home/egor/Документы/apps/HeapSort/bin/Debug/netcoreapp2.2/HeapSort.runtimeconfig.json
+/home/egor/Документы/apps/HeapSort/bin/Debug/netcoreapp2.2/HeapSort.runtimeconfig.dev.json
+/home/egor/Документы/apps/HeapSort/bin/Debug/netcoreapp2.2/HeapSort.dll
+/home/egor/Документы/apps/HeapSort/bin/Debug/netcoreapp2.2/HeapSort.pdb
+/home/egor/Документы/apps/HeapSort/obj/Debug/netcoreapp2.2/HeapSort.csprojAssemblyReference.cache
+/home/egor/Документы/apps/HeapSort/obj/Debug/netcoreapp2.2/HeapSort.csproj.CoreCompileInputs.cache
+/home/egor/Документы/apps/HeapSort/obj/Debug/netcoreapp2.2/HeapSort.AssemblyInfoInputs.cache
+/home/egor/Документы/apps/HeapSort/obj/Debug/netcoreapp2.2/HeapSort.AssemblyInfo.cs
+/home/egor/Документы/apps/HeapSort/obj/Debug/netcoreapp2.2/HeapSort.dll
+/home/egor/Документы/apps/HeapSort/obj/Debug/netcoreapp2.2/HeapSort.pdb
